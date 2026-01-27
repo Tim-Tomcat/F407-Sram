@@ -15,4 +15,5 @@ Sơ đồ khối tổng quát kết nối
 <br/>
 
 <img width="903" height="631" alt="image" src="https://github.com/user-attachments/assets/7b25c892-a123-4970-bc40-8e1c303ae177" />
+<img width="447" height="265" alt="image" src="https://github.com/user-attachments/assets/03b0b453-4719-48ff-ab5d-e0447bb5592f" />
 
