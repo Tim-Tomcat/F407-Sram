@@ -1,6 +1,6 @@
 # F407-Sram
 <img width="841" height="612" alt="image" src="https://github.com/user-attachments/assets/6432fc08-2683-4d0b-8745-808d8acd9f93" />
-
+Sơ đồ khối tổng quát kết nối
 
 <br/>
 
