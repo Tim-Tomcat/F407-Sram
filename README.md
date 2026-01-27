@@ -1,11 +1,16 @@
 # F407-Sram
+## Tổng quan dự án
 <img width="841" height="612" alt="image" src="https://github.com/user-attachments/assets/6432fc08-2683-4d0b-8745-808d8acd9f93" />
-Sơ đồ khối tổng quát kết nối
+
+  - Sơ đồ khối kết nối
 
 <br/>
 
 <img width="942" height="646" alt="image" src="https://github.com/user-attachments/assets/1de4e8c4-da57-446b-a4d4-4e19aa3b36c3" />
 
+<br/>
+
+<img width="1156" height="656" alt="image" src="https://github.com/user-attachments/assets/0b4652c8-3d75-4166-9378-65d2b6a0aa90" />
 
 <br/>
 
@@ -15,5 +20,8 @@ Sơ đồ khối tổng quát kết nối
 <br/>
 
 <img width="903" height="631" alt="image" src="https://github.com/user-attachments/assets/7b25c892-a123-4970-bc40-8e1c303ae177" />
+
+## Thử nghiệm đọc ghi Sram
+
 <img width="447" height="265" alt="image" src="https://github.com/user-attachments/assets/03b0b453-4719-48ff-ab5d-e0447bb5592f" />
 
