@@ -3,6 +3,9 @@
 <img width="841" height="612" alt="image" src="https://github.com/user-attachments/assets/6432fc08-2683-4d0b-8745-808d8acd9f93" />
 
   - Sơ đồ khối kết nối
+  - Mục tiêu thiết kế:
+    - Kết nối STM32F407ZGT6 với Sram 4Mbit thông qua bus FSMC
+    - Kết nối với IC Ethernet DP83848 thông qua bus RMII
 
 <br/>
 
