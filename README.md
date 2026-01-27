@@ -23,5 +23,8 @@
 
 ## Thử nghiệm đọc ghi Sram
 
+Thử bằng phương pháp ghi vào đầy vùng nhớ Sram rồi đọc lại, nếu phát hiện sai do khác lúc ghi thì lỗi sẽ được ghi nhận
+(Vì đây là phương pháp thử cơ bản để kiểm tra kết nối giữa MCU và Sram, khi thực hiện phức tạp hơn thì vẫn có lỗi xảy ra)
+
 <img width="447" height="265" alt="image" src="https://github.com/user-attachments/assets/03b0b453-4719-48ff-ab5d-e0447bb5592f" />
 
