@@ -5,7 +5,7 @@
   - Sơ đồ khối kết nối
   - Mục tiêu thiết kế:
     - Kết nối STM32F407ZGT6 với Sram 4Mbit thông qua bus FSMC
-    - Kết nối với IC Ethernet DP83848 thông qua bus RMII
+    - Kết nối với IC Ethernet DP83848 thông qua bus RMII(Thất bại)
 
 <br/>
 
