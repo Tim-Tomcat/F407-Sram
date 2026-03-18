@@ -8,6 +8,18 @@
     - Kết nối với IC Ethernet DP83848 thông qua bus RMII(Thất bại)
 
 <br/>
+<img width="637" height="683" alt="image" src="https://github.com/user-attachments/assets/8bb32bc9-315a-4052-a964-605a16c9960f" />
+
+Cách kết nối IC K6R4008V1D:
+| Pin Name     | Pin Function       |
+|--------------|--------------------|
+| A0 - A18     | Address Inputs     |
+| WE           | Write Enable       |
+| CS           | Chip Select        |
+| OE           | Output Enable      |
+| I/O1 ~ I/O8  | Data Inputs/Outputs|
+
+<br/>
 
 ![20260127_230926](https://github.com/user-attachments/assets/88cd19f8-fb93-4895-871f-a5c62b6c14a1)
 ![20260127_231255](https://github.com/user-attachments/assets/0d77397c-8bca-49bf-a3bb-15c36212c802)
