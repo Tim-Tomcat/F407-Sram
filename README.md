@@ -4,15 +4,15 @@
 
   - Sơ đồ khối kết nối
   - Mục tiêu thiết kế:
-    - Mạch debug STM, yêu cầu kiểm soát trở kháng 90 Ohm đối với cổng USB.
+    - Mạch debug STM, yêu cầu thiết lập trở kháng 90 Ohm đối với cổng USB.
     - Mạch USB <-> UART, giao tiếp với STM32.
     - Mạch gắn thẻ SD (sai footprint, không có linh kiện khớp).
     - Kết nối STM32F407ZGT6 với Sram 4Mbit thông qua bus FSMC.
-      - Kiểm soát trở kháng bus FSMC đạt 50 Ohm.
+      - Thiết lập trở kháng bus FSMC có giá trị 50 Ohm.
       - Kiểm soát length matching nhỏ nhất có thể (±2mm<).
       - Thêm điện trở nối tiếp để giảm over/undershoot và giảm méo tín hiệu. 
     - Kết nối với IC Ethernet DP83848 thông qua bus RMII (Thất bại).
-      - Kiểm soát trở kháng cho cổng ETH đạt giá trị 100 Ohm.
+      - Thiết lập trở kháng cho cổng ETH có giá trị 100 Ohm.
 <br/>
 <img width="608" height="406" alt="image" src="https://github.com/user-attachments/assets/82d8d18b-c7d7-430c-b1fd-ec1d52fabc15" />
 
